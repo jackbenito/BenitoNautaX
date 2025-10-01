@@ -15,5 +15,6 @@ Manifiesto oficial de la marca personal de @BenitoNautaX. Este repositorio aloja
 
 #### Contacto
 
-Sígueme en X: https://x.com/BenitoNautaX
+Sígueme en X: 
+
 
